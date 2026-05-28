@@ -1,0 +1,42 @@
+[{
+  "_id": "p001",
+  "nombre": "Laptop Pro",
+  "precio": 2500000,
+  "categoria": "electronica",
+  "stock": 15,
+  "disponible": true
+},
+{
+  "_id": "p002",
+  "nombre": "Mouse Inalambrico",
+  "precio": 95000,
+  "categoria": "perifericos",
+  "stock": 40,
+  "disponible": true
+},
+{
+  "_id": "p003",
+  "nombre": "Audifonos Bluetooth",
+  "precio": 320000,
+  "categoria": "electronica",
+  "stock": 10,
+  "disponible": true
+},
+{
+  "_id": "p004",
+  "nombre": "Teclado Mecanico",
+  "precio": 450000,
+  "categoria": "perifericos",
+  "stock": 8,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6a1788676e0a6f287db0644c"
+  },
+  "nombre": "Monitor 4k",
+  "precio": 1200000,
+  "categoria": "electronica",
+  "stock": 5,
+  "disponible": true
+}]

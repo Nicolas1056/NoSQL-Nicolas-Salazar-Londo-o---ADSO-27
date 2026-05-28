@@ -1,0 +1,23 @@
+[{
+  "_id": "o001",
+  "cliente_id": "c001",
+  "producto": "Laptop Pro",
+  "total": 2500000,
+  "estado": "entregado"
+},
+{
+  "_id": "o002",
+  "cliente_id": "c002",
+  "producto": "Teclado Mecanico",
+  "total": 450000,
+  "estado": "cancelado"
+},
+{
+  "_id": {
+    "$oid": "6a178ab86e0a6f287db0644f"
+  },
+  "cliente_id": "c003",
+  "producto": "Mouse Inalambrico",
+  "total": 85000,
+  "estado": "enviado"
+}]

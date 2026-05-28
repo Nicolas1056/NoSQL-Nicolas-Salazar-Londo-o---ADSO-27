@@ -1,0 +1,35 @@
+[{
+  "_id": "c001",
+  "nombre": "Ana Martinez",
+  "email": "ana@mail.com",
+  "ciudad": "Bogota",
+  "edad": 28,
+  "activo": true
+},
+{
+  "_id": "c002",
+  "nombre": "Carlos Ruiz",
+  "email": "carlos@mail.com",
+  "ciudad": "Medellin",
+  "edad": 35,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a178a386e0a6f287db0644d"
+  },
+  "nombre": "Pedro Alvarez",
+  "email": "pedro@mail.com",
+  "ciudad": "Barranquilla",
+  "edad": 31,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a178a386e0a6f287db0644e"
+  },
+  "nombre": "Sofia Torres",
+  "email": "sofia@mail.com",
+  "ciudad": "Cucuta",
+  "activo": false
+}]
