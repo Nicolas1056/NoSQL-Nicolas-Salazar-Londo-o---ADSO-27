@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469283"
+  },
+  "mascota": {
+    "nombre": "Firulais",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "edad": 5
+  },
+  "propietario": {
+    "nombre": "Carlos Pérez",
+    "telefono": "3001234567",
+    "ciudad": "Bogotá"
+  },
+  "atencion": {
+    "fecha": "2026-05-12",
+    "motivo": "Consulta general",
+    "diagnostico": "Buen estado de salud",
+    "tratamiento": "Control rutinario"
+  },
+  "veterinario": "Dra. Ana Gómez",
+  "costo": 60000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469284"
+  },
+  "mascota": {
+    "nombre": "Pelusa",
+    "especie": "Gato",
+    "raza": "Persa",
+    "edad": 2
+  },
+  "propietario": {
+    "nombre": "María Rodríguez",
+    "telefono": "3109876543",
+    "ciudad": "Medellín"
+  },
+  "atencion": {
+    "fecha": "2026-05-10",
+    "motivo": "Vacunación",
+    "diagnostico": "Sano",
+    "tratamiento": "Aplicación vacuna triple felina"
+  },
+  "veterinario": "Dr. Jorge Ruiz",
+  "costo": 85000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469285"
+  },
+  "mascota": {
+    "nombre": "Paco",
+    "especie": "Loro",
+    "raza": "Amazónico",
+    "edad": 12
+  },
+  "propietario": {
+    "nombre": "Luis Fernando Silva",
+    "telefono": "3204567890",
+    "ciudad": "Cali"
+  },
+  "atencion": {
+    "fecha": "2026-05-08",
+    "motivo": "Corte de pico y uñas",
+    "diagnostico": "Crecimiento excesivo",
+    "tratamiento": "Recorte estético y funcional"
+  },
+  "veterinario": "Dra. Laura Morales",
+  "costo": 45000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469286"
+  },
+  "mascota": {
+    "nombre": "Max",
+    "especie": "Perro",
+    "raza": "Bulldog",
+    "edad": 4
+  },
+  "propietario": {
+    "nombre": "Andrés Felipe Castro",
+    "telefono": "3156781234",
+    "ciudad": "Barranquilla"
+  },
+  "atencion": {
+    "fecha": "2026-05-13",
+    "motivo": "Problema digestivo",
+    "diagnostico": "Gastroenteritis leve",
+    "tratamiento": "Dieta blanda y probióticos"
+  },
+  "veterinario": "Dr. Carlos Mendoza",
+  "costo": 120000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469287"
+  },
+  "mascota": {
+    "nombre": "Luna",
+    "especie": "Gato",
+    "raza": "Siamés",
+    "edad": 1
+  },
+  "propietario": {
+    "nombre": "Camila Osorio",
+    "telefono": "3012349876",
+    "ciudad": "Bucaramanga"
+  },
+  "atencion": {
+    "fecha": "2026-05-01",
+    "motivo": "Desparasitación",
+    "diagnostico": "Presencia de parásitos internos",
+    "tratamiento": "Antiparasitario oral"
+  },
+  "veterinario": "Dra. Ana Gómez",
+  "costo": 35000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469288"
+  },
+  "mascota": {
+    "nombre": "Tambor",
+    "especie": "Conejo",
+    "raza": "Cabeza de león",
+    "edad": 3
+  },
+  "propietario": {
+    "nombre": "Diana Rojas",
+    "telefono": "3114445555",
+    "ciudad": "Bogotá"
+  },
+  "atencion": {
+    "fecha": "2026-05-05",
+    "motivo": "Chequeo dental",
+    "diagnostico": "Maloclusión dental",
+    "tratamiento": "Limado de incisivos"
+  },
+  "veterinario": "Dra. Laura Morales",
+  "costo": 90000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469289"
+  },
+  "mascota": {
+    "nombre": "Toby",
+    "especie": "Perro",
+    "raza": "Poodle",
+    "edad": 8
+  },
+  "propietario": {
+    "nombre": "Javier Torres",
+    "telefono": "3228889999",
+    "ciudad": "Pereira"
+  },
+  "atencion": {
+    "fecha": "2026-04-28",
+    "motivo": "Alergia en la piel",
+    "diagnostico": "Dermatitis atópica",
+    "tratamiento": "Champú medicado y antihistamínicos"
+  },
+  "veterinario": "Dr. Jorge Ruiz",
+  "costo": 110000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a346928a"
+  },
+  "mascota": {
+    "nombre": "Chispa",
+    "especie": "Hamster",
+    "raza": "Sirio",
+    "edad": 1
+  },
+  "propietario": {
+    "nombre": "Sofía Vergara",
+    "telefono": "3007776666",
+    "ciudad": "Medellín"
+  },
+  "atencion": {
+    "fecha": "2026-05-11",
+    "motivo": "Letargo",
+    "diagnostico": "Estrés térmico",
+    "tratamiento": "Ajuste de temperatura en hábitat e hidratación"
+  },
+  "veterinario": "Dra. Laura Morales",
+  "costo": 40000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a346928b"
+  },
+  "mascota": {
+    "nombre": "Mishu",
+    "especie": "Gato",
+    "raza": "Criollo",
+    "edad": 6
+  },
+  "propietario": {
+    "nombre": "Pedro Pablo León",
+    "telefono": "3145552222",
+    "ciudad": "Cali"
+  },
+  "atencion": {
+    "fecha": "2026-05-09",
+    "motivo": "Herida superficial",
+    "diagnostico": "Corte leve en pata trasera",
+    "tratamiento": "Limpieza, desinfección y vendaje"
+  },
+  "veterinario": "Dr. Carlos Mendoza",
+  "costo": 55000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a346928c"
+  },
+  "mascota": {
+    "nombre": "Zeus",
+    "especie": "Perro",
+    "raza": "Pastor Alemán",
+    "edad": 7
+  },
+  "propietario": {
+    "nombre": "Roberto Gómez",
+    "telefono": "3189990000",
+    "ciudad": "Manizales"
+  },
+  "atencion": {
+    "fecha": "2026-05-02",
+    "motivo": "Cojera",
+    "diagnostico": "Displasia de cadera leve",
+    "tratamiento": "Analgésicos y recomendación de fisioterapia"
+  },
+  "veterinario": "Dr. Jorge Ruiz",
+  "costo": 150000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a346928d"
+  },
+  "mascota": {
+    "nombre": "Flash",
+    "especie": "Tortuga",
+    "raza": "Morrocoy",
+    "edad": 25
+  },
+  "propietario": {
+    "nombre": "Carmen Alicia",
+    "telefono": "3191112233",
+    "ciudad": "Cartagena"
+  },
+  "atencion": {
+    "fecha": "2026-04-30",
+    "motivo": "Revisión de caparazón",
+    "diagnostico": "Deficiencia de calcio",
+    "tratamiento": "Suplementos de calcio y mayor exposición al sol"
+  },
+  "veterinario": "Dra. Laura Morales",
+  "costo": 70000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a346928e"
+  },
+  "mascota": {
+    "nombre": "Snoopy",
+    "especie": "Perro",
+    "raza": "Beagle",
+    "edad": 3
+  },
+  "propietario": {
+    "nombre": "Esteban Arce",
+    "telefono": "3005554433",
+    "ciudad": "Cúcuta"
+  },
+  "atencion": {
+    "fecha": "2026-05-07",
+    "motivo": "Sacudida constante de cabeza",
+    "diagnostico": "Otitis externa",
+    "tratamiento": "Gotas óticas antibióticas por 7 días"
+  },
+  "veterinario": "Dra. Ana Gómez",
+  "costo": 80000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a346928f"
+  },
+  "mascota": {
+    "nombre": "Simba",
+    "especie": "Gato",
+    "raza": "Bengalí",
+    "edad": 1
+  },
+  "propietario": {
+    "nombre": "Valentina Cruz",
+    "telefono": "3103334444",
+    "ciudad": "Ibagué"
+  },
+  "atencion": {
+    "fecha": "2026-05-04",
+    "motivo": "Cirugía programada",
+    "diagnostico": "Apto para cirugía",
+    "tratamiento": "Castración"
+  },
+  "veterinario": "Dr. Carlos Mendoza",
+  "costo": 180000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469290"
+  },
+  "mascota": {
+    "nombre": "Tequila",
+    "especie": "Perro",
+    "raza": "Chihuahua",
+    "edad": 10
+  },
+  "propietario": {
+    "nombre": "Marcos Díaz",
+    "telefono": "3127778888",
+    "ciudad": "Villavicencio"
+  },
+  "atencion": {
+    "fecha": "2026-05-12",
+    "motivo": "Tos crónica",
+    "diagnostico": "Colapso traqueal leve",
+    "tratamiento": "Medicamentos antitusígenos y uso de arnés"
+  },
+  "veterinario": "Dr. Jorge Ruiz",
+  "costo": 95000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469291"
+  },
+  "mascota": {
+    "nombre": "Poli",
+    "especie": "Ave",
+    "raza": "Canario",
+    "edad": 2
+  },
+  "propietario": {
+    "nombre": "Isabel Montes",
+    "telefono": "3159998877",
+    "ciudad": "Santa Marta"
+  },
+  "atencion": {
+    "fecha": "2026-05-06",
+    "motivo": "Dificultad respiratoria",
+    "diagnostico": "Ácaros en sacos aéreos",
+    "tratamiento": "Aplicación de ivermectina en gotas"
+  },
+  "veterinario": "Dra. Laura Morales",
+  "costo": 50000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469292"
+  },
+  "mascota": {
+    "nombre": "Cleopatra",
+    "especie": "Gato",
+    "raza": "Esfinge",
+    "edad": 5
+  },
+  "propietario": {
+    "nombre": "Natalia Herrera",
+    "telefono": "3014449999",
+    "ciudad": "Popayán"
+  },
+  "atencion": {
+    "fecha": "2026-05-03",
+    "motivo": "Aumento en consumo de agua",
+    "diagnostico": "Insuficiencia renal crónica temprana",
+    "tratamiento": "Cambio a dieta renal y fluidoterapia subcutánea"
+  },
+  "veterinario": "Dr. Carlos Mendoza",
+  "costo": 200000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469293"
+  },
+  "mascota": {
+    "nombre": "Balu",
+    "especie": "Perro",
+    "raza": "Golden Retriever",
+    "edad": 6
+  },
+  "propietario": {
+    "nombre": "Héctor Vargas",
+    "telefono": "3201115566",
+    "ciudad": "Pasto"
+  },
+  "atencion": {
+    "fecha": "2026-05-11",
+    "motivo": "Control de peso",
+    "diagnostico": "Sobrepeso",
+    "tratamiento": "Plan de ejercicio y alimento bajo en calorías"
+  },
+  "veterinario": "Dra. Ana Gómez",
+  "costo": 45000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469294"
+  },
+  "mascota": {
+    "nombre": "Porky",
+    "especie": "Cerdo",
+    "raza": "Mini Pig",
+    "edad": 1
+  },
+  "propietario": {
+    "nombre": "Daniela López",
+    "telefono": "3112223344",
+    "ciudad": "Neiva"
+  },
+  "atencion": {
+    "fecha": "2026-04-29",
+    "motivo": "Chequeo general",
+    "diagnostico": "Óptimo estado",
+    "tratamiento": "Recorte de pezuñas preventivo"
+  },
+  "veterinario": "Dra. Laura Morales",
+  "costo": 100000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469295"
+  },
+  "mascota": {
+    "nombre": "Lobo",
+    "especie": "Perro",
+    "raza": "Husky Siberiano",
+    "edad": 4
+  },
+  "propietario": {
+    "nombre": "Felipe Navarro",
+    "telefono": "3134445566",
+    "ciudad": "Armenia"
+  },
+  "atencion": {
+    "fecha": "2026-05-08",
+    "motivo": "Jadeo excesivo y debilidad",
+    "diagnostico": "Golpe de calor leve",
+    "tratamiento": "Terapia de fluidos fríos y reposo"
+  },
+  "veterinario": "Dr. Jorge Ruiz",
+  "costo": 160000
+},
+{
+  "_id": {
+    "$oid": "6a051aae1de84142a3469296"
+  },
+  "mascota": {
+    "nombre": "Mía",
+    "especie": "Gato",
+    "raza": "Ragdoll",
+    "edad": 3
+  },
+  "propietario": {
+    "nombre": "Lucía Pineda",
+    "telefono": "3187772211",
+    "ciudad": "Montería"
+  },
+  "atencion": {
+    "fecha": "2026-05-12",
+    "motivo": "Mal aliento",
+    "diagnostico": "Acumulación de sarro (Gingivitis)",
+    "tratamiento": "Profilaxis dental bajo anestesia"
+  },
+  "veterinario": "Dr. Carlos Mendoza",
+  "costo": 250000
+}]
